@@ -1,6 +1,6 @@
  A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board
 
- IMG_6005 copy.jpg
+[ IMG_6005 copy.jpg](https://github.com/Sandeepkumar-bs/vsdquardron/blob/e7545eb9b313d9f86ae0e6d7c7b1d39b0fac38f1/IMG_6005%20copy.jpg)
 
 
 BOARD SPECS:
