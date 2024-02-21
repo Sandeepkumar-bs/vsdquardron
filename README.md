@@ -41,8 +41,9 @@ BOARD SPECS:
 
 This repo is intended to document the weekly progress.
 
-The first online meet was held on 16th of Feb 2024 @6PM
-TASK 1
+###The first online meet was held on 16th of Feb 2024 @6PM
+
+TASK-1
 
 1.install Yosys
 
@@ -77,6 +78,20 @@ TASK 1
 ![gtkwave](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/793989a6-457c-426b-a443-ebb40b9b77b0)
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+### 2nd Meeting - The second online meet was held on 20th of Feb 2024 @6PM
+
+
+Task-2 
+
+1.To create a block diagram of the respective project  
+
+2.To identify input ports, input waveforms, output ports and output waveforms  
+
+**Block Diagram**  
 
 
 
