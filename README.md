@@ -76,7 +76,7 @@ TASK 1
 
 ![gtkwave](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/793989a6-457c-426b-a443-ebb40b9b77b0)
 
-![IMG_6027](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/81ee7068-26e7-457c-80a2-9b8cf2302377)
+
 
 
 
