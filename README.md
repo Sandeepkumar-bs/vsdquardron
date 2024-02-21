@@ -57,12 +57,12 @@ TASK 1
 
 ![install git](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/33a3512b-322e-495e-bdc5-4dc4e3d70ff5)
 
-1.YOSYS
+1.yosys
 ```cd yosys```
 
 ![yosys](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/5d0a3d7c-439c-48d4-8a87-ece161de6906)
 
-```sudo apt install make```
+```sudo apt install yosys```
 
 ![yosys1](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/266189e6-42b5-49d9-aa36-580369f1db5f)
 
