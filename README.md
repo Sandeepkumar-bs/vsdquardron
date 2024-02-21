@@ -51,11 +51,32 @@ TASK 1
 3.install gtkwave
 
 
-TO INSTALL GIT
+# TO INSTALL GIT
 
-sudo apt get install git
+```sudo apt get install git```
 
 ![install git](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/33a3512b-322e-495e-bdc5-4dc4e3d70ff5)
+
+1.YOSYS
+```cd yosys```
+
+![yosys](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/5d0a3d7c-439c-48d4-8a87-ece161de6906)
+
+```sudo apt install make```
+
+![yosys1](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/266189e6-42b5-49d9-aa36-580369f1db5f)
+
+2.iVerilog
+```sudo apt-get install iverilog```
+
+![iverilog](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/f58d8486-13fe-46e6-aa38-c42513c8dc38)
+
+3.GTkWave
+```sudo apt-get install gtkwave```
+
+![gtkwave](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/793989a6-457c-426b-a443-ebb40b9b77b0)
+
+
 
 
 
