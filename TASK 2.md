@@ -11,6 +11,6 @@ Task-2
 **Block Diagram**  
 
 
-![block diagram](https://github.com/Sandeepkumar-bs/vsdquardron/assets/140676646/46b54994-a62c-4f44-aac7-8394f6f08c69)
+
 
 
