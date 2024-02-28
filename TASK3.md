@@ -1,6 +1,6 @@
 ## TO GET WAVEFOROM FROM IVERILOG AND GTKWAVE
 
- ### STEPS TO GET WAVEFORM 
+ ### Basics of Functional tools iverilog and gtkwave
 
 
 
