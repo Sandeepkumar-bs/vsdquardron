@@ -1,3 +1,5 @@
+# 3rd Meeting - The Third online meet was held on 22nd of Feb 2024 @6PM 
+
 ## TO GET WAVEFOROM FROM IVERILOG AND GTKWAVE
 
  ### Basics of Functional tools iverilog and gtkwave
